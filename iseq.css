@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: 궁서체;
+}
+
+h2
+{
+    font-family: 맑은 고딕;
+    color: blue;
+}
+
+p #x #y
+{
+    width: 100px;
+    height: 20px;
+}
+
+button
+{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    color: #0be0b5;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+#result
+{
+    color:chartreuse;
+}
